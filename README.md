@@ -1,6 +1,6 @@
 # bl-phreeqc
 
-A MATLAB Buckley-Leverett simulator coupled to the Geochemical Package PHREEQC
+<b>A MATLAB Buckley-Leverett simulator coupled to the Geochemical Package PHREEQC</b>
 ******************************************************************************
 
 This simulator is capable of calculating Buckley-Leverett oil-water flow in a 1D reservoir under influence of geochemical interactions.
@@ -11,14 +11,18 @@ and cation exchange.
 Author: Wouter J. de Bruin
 
 
-INSTALLATION
+
+<b>INSTALLATION</b>
 ************
 
 To be able to use the simulator's geochemical capabilities the geochemical package PHREEQC must be installed on the user's computer. Especially the IPHREEQC COM objects are of importance. Mind that on a 64-bit machine both the 32- and 64-bit version of the COM object need to be installed.
 
 The simulator itself is run from MATLAB.
 
-USAGE
+
+
+
+<b>USAGE</b>
 *****
 
 1. Start MATLAB and open input_parameters
@@ -26,7 +30,10 @@ USAGE
 3. Run start.m
 4. After the simulation the results can be plotted via a textual user interface in MATLAB.
 
-LICENSE
+
+
+
+<b>LICENSE</b>
 *******
 
 MIT License
