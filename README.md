@@ -8,6 +8,8 @@ This simulator is capable of calculating Buckley-Leverett oil-water flow in a 1D
 The interactions taken into account are: CO2 buffering, calcite dissolution,
 and cation exchange.
 
+Author: Wouter J. de Bruin
+
 
 INSTALLATION
 ************
@@ -23,11 +25,6 @@ USAGE
 2. Define all input parameters. Calculate stable grid cell sizes and time steps. See 'Simulation of Geochemical Processes during Low Salinity Water Flooding by Coupling Multiphase Buckley-Leverett Flow to the Geochemical Package PHREEQC' by W.J. de Bruin. Plots needed for this calculation can be plotted via the textual user interface after the relative permeability model has been supplied.
 3. Run start.m
 4. After the simulation the results can be plotted via a textual user interface in MATLAB.
-
-AUTHOR
-******
-
-Wouter J. de Bruin
 
 LICENSE
 *******
