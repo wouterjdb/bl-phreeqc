@@ -8,6 +8,9 @@ This simulator is capable of calculating Buckley-Leverett oil-water flow in a 1D
 The interactions taken into account are: CO2 buffering, calcite dissolution,
 and cation exchange.
 
+<a href="http://repository.tudelft.nl/islandora/object/uuid:2d568014-8acb-4e8e-9d39-91c76f499a46?collection=research" target="_blank">Simulation of Geochemical Processes during Low Salinity Water Flooding by Coupling Multiphase Buckley-Leverett Flow to the Geochemical Package PHREEQC</a>
+
+
 Author: Wouter J. de Bruin
 
 
